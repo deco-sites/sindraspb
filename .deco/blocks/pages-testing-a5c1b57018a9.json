@@ -32,6 +32,9 @@
     },
     {
       "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "Faq - default"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
