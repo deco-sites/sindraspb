@@ -1,1 +1,10 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[],"buttons":[]}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10828/8b186e5f-a9f8-4d48-9cbd-880ed3b005a7"
+  }
+}
